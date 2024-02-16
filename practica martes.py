@@ -20,4 +20,4 @@ class Electrodomestico:
             return 'blanco'  
 
 
-
+#estaba checando esto realmente no se como lo veas
