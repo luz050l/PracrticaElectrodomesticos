@@ -1,4 +1,11 @@
+A=100
+B=80
+C=60
+D=50
+E=30
+F=10
 
+# TENGO ENTENDIDO QUE DEPENDIENDO DE LA LETRA QUE ESCOJAN, VA A TENER SUS PRECIOS Y A ESTO SE LE DEBE SUMAR EL PRECIO DE SU TAMAÑO (SUMA DE LETRA+TAMAÑO)
 
 class Electrodomestico:
     def __init__(self,Precio,Color,Peso,Consumo,letra_upper):
@@ -41,3 +48,13 @@ class Electrodomestico:
         else:
             return self.letra_upper (A)
         print("A")
+#ESTO ES LO QUE AGREGUE!!!!1
+   def precio(self):
+        if 0 and 19==10:
+            print("operacion")
+        elif 20 and 49==50:
+            print("2 operacion")
+        elif 50 and 79==80:
+            print("3 operacion")
+        elif 80 and 100000000000000000000==100:
+            print("4 operacion")
